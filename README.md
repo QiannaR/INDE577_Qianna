@@ -5,7 +5,7 @@ This repository is created by Qianna Sun, a graduate Industrial Engineering stud
 
 ## Topics of learning
 
-- Supervised learning
+- **Supervised learning**
 
   1.K-Nearest Neighbors
   2.gradient Descent
@@ -17,7 +17,7 @@ This repository is created by Qianna Sun, a graduate Industrial Engineering stud
   8.Random Forests
   9.Ensemble Learning
   
-- Unsupervised Learning
+- **Unsupervised Learning**
   1.K-Means Clustering
  
  ## Data
