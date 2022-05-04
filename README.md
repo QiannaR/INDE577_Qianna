@@ -1,7 +1,7 @@
 # INDE577_Machine Learning and Data Science
 This repository is created by Qianna Sun, a graduate Industrial Engineering student from Rice University. The insturctor of this course is Dr. Davila. We use Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron as text book. The goal of this course is provide students with algorithms and implementations of datascence and machine learnings. The course covers supervised learning, unsupervised learning and reinforment learding. The below content section shows the most but not limited to the topics I have learned in the class.
 
-
+![machine-learning-helps-life-insurance-scaled](https://user-images.githubusercontent.com/98185045/166717708-5f6143ad-83e4-4cf8-9067-bd9dd209b93b.jpg)
 
 ## Topics of learning
 
