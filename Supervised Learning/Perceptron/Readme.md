@@ -11,7 +11,7 @@ A perceptron is a neural network unit that does a precise computation to detect 
 
 
 ## Tasks ##
-In this project, I will build a perceptron model from scratch and implement the perceptron learning algorithm f
+In this project, I will build a single layer perceptron model from scratch and implement the single layer perceptron learning algorithm.
 
 I will use the following libraries:
 
