@@ -10,7 +10,7 @@ Although, a real dataset will have a lot more features and this will just be a b
 
 
 # DataSet #
- This Data is from https://archive.ics.uci.edu/ml/datasets/Secondary+Mushroom+Dataset
+ This Data is from Kaggle.
  
 # Libraries #
   1. numpy
