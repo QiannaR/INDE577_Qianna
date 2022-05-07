@@ -23,6 +23,9 @@ tep
 
 ![knn_algorithm](https://user-images.githubusercontent.com/98185045/167072306-c49c3aa8-9b25-47f9-9f25-05e818b892cf.jpg)
 
+## What we will do ##
+
+n this project, I will build a KNN model from scratch by using car evaluation dataset.
 ## Libriaries ##
 1. Numpy
 2. Matplotlib
