@@ -18,7 +18,7 @@ This repository is created by Qianna Sun, a graduate Industrial Engineering stud
   9. Ensemble Learning
   
 - **Unsupervised Learning**
-  1.K-Means Clustering
+  1. K-Means Clustering
  
  ## Data
  All data used in these repository are from public sourcebase, such as Kaggle [https://www.kaggle.com], UCI[https://archive.ics.uci.edu/ml/index.php], CMU[https://guides.library.cmu.edu/machine-learning/datasets], etc.
