@@ -17,7 +17,11 @@ It is an ensemble tree-based learning algorithm. The Random Forest Classifier is
 1. Random forests have been observed to overfit for some datasets with noisy classification/regression tasks.
 2. For data including categorical variables with different number of levels, random forests are biased in favor of those attributes with more levels. Therefore, the variable importance scores from random forest are not reliable for this type of data.
 
-## libraries ##
+
+## What I will do ##
+
+I will use car evaluation dataset to do the random forest to see how the model predicts whether a car is acceptable or not.
+## Libraries ##
 
 [matplotlib] (https://matplotlib.org/)
 [pandas] (https://pandas.pydata.org/)
