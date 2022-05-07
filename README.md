@@ -8,11 +8,11 @@ This repository is created by Qianna Sun, a graduate Industrial Engineering stud
 - **Supervised learning**
 
   1. K-Nearest Neighbors
-  2. gradient Descent
+  2. Gradient Descent
   3. Linear Regression
   4. Logistic Regression
-  5. Single Perceptron
-  6. Multi Layer Perceptron
+  5. Single Layer Perceptron
+  6. Support Vector Machine
   7. Decision Trees
   8. Random Forests
   9. Ensemble Learning
