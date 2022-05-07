@@ -10,11 +10,16 @@ A Support Vector Machine (SVM) is a very powerful and versatile Machine Learning
 1. Simple SVM: Typically used for linear regression and classification problems.
 2. Kernel SVM: Has more flexibility for non-linear data because you can add more features to fit a hyperplane instead of a two-dimensional space.
 
-## Libraries ##
+## what we will do ##
 
+I will use the SVM algorithm to predict the rainfall in Austin.
+
+## Libraries ##
+not limited to
 1. Numpy
 2. Pandas
 3. Matplotlib
+
 ## Reference ##
 
 https://www.freecodecamp.org/news/svm-machine-learning-tutorial-what-is-the-support-vector-machine-algorithm-explained-with-code-examples/
