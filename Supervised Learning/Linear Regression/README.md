@@ -13,10 +13,10 @@ Linear regression is used to model the relationship between two variables and es
 6. Relate statistical findings to the hypothesis. Accept or reject the null hypothesis. 
 7. Reject, accept or revise the original hypothesis. Make suggestions for research design and management aspects of the problem.
 
-## what we will do ##
+## Data ##
 
-we are using the linear regression method to predict the future rainfall for Austion by using HIstorical AUstin Rainfall Data.
-
+we are using the linear regression method to predict the future rainfall for Austion by using HIstorical AUstin weather Data.
+This Data is from Kaggle.This dataset was obtained from WeatherUnderground.com, at the Austin KATT station. And we can use this dataset to predict future weather.
 ## Libraries ##
 1. Matplotlib
 2. Pandas
