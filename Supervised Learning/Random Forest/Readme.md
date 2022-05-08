@@ -17,6 +17,8 @@ It is an ensemble tree-based learning algorithm. The Random Forest Classifier is
 1. Random forests have been observed to overfit for some datasets with noisy classification/regression tasks.
 2. For data including categorical variables with different number of levels, random forests are biased in favor of those attributes with more levels. Therefore, the variable importance scores from random forest are not reliable for this type of data.
 
+## Data ##
+This data set is composed of 1728 rows and 6 different attributes which are buying price, price of maintenance, number of doors, capacity in terms of persons to carry, the relative size of luggage boot and the estimated safety value of each car. There is no missing value in the data set as a big advantage We can use this dataset to do prediction.
 
 ## What I will do ##
 
