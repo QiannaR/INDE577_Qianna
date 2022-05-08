@@ -10,7 +10,7 @@ For example, you can train a group of Decision Tree classifiers, each on a diffe
  
 ![toptal-blog-image-1551787771826-8fcca2d6e3cddefc5b8a8069170a6ebb](https://user-images.githubusercontent.com/98185045/167075805-2ca49d27-1b78-40ea-9996-0a4d226a62b0.png)
 
-## What we will do ##
+## data ##
 
 In this project, we are going to work on some diabetes dataset to predict if a given patient has diabetes. This dataset contains measurements relating to Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, and Age. such as LogisticRegression, RandomForestClassifier, DecisionTreeClassifier,and finally we use ensemble method.
 
