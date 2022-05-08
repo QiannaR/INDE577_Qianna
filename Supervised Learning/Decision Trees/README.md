@@ -10,7 +10,7 @@ Although, a real dataset will have a lot more features and this will just be a b
 
 
 # DataSet #
- This Data is from Kaggle.
+ This Data is from Kaggle. It is a car evluation dataset. This data set is composed of 1728 rows and 6 different attributes which are buying price, price of maintenance, number of doors, capacity in terms of persons to carry, the relative size of luggage boot and the estimated safety value of each car. There is no missing value in the data set as a big advantage  We can use this dataset to do prediction.
  
 # Libraries #
   1. numpy
