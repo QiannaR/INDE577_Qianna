@@ -20,7 +20,7 @@ It is an ensemble tree-based learning algorithm. The Random Forest Classifier is
 ## Data ##
 This data set is composed of 1728 rows and 6 different attributes which are buying price, price of maintenance, number of doors, capacity in terms of persons to carry, the relative size of luggage boot and the estimated safety value of each car. There is no missing value in the data set as a big advantage We can use this dataset to do prediction.
 
-## What I will do ##
+## Task ##
 
 I will use car evaluation dataset to do the random forest to see how the model predicts whether a car is acceptable or not.
 ## Libraries ##
