@@ -23,9 +23,9 @@ tep
 
 ![knn_algorithm](https://user-images.githubusercontent.com/98185045/167072306-c49c3aa8-9b25-47f9-9f25-05e818b892cf.jpg)
 
-## What we will do ##
+## dataset ##
 
-n this project, I will build a KNN model from scratch by using car evaluation dataset.
+n this project, I will build a KNN model from scratch by using car evaluation dataset. This data set is composed of 1728 rows and 6 different attributes which are buying price, price of maintenance, number of doors, capacity in terms of persons to carry, the relative size of luggage boot and the estimated safety value of each car. There is no missing value in the data set as a big advantage you may directly dive into developing your algorithm without preprocessing.
 ## Libriaries ##
 1. Numpy
 2. Matplotlib
