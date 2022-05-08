@@ -14,9 +14,10 @@ The K-Means algorithm is a simple algorithm capable of clustering this kind of d
 Suppose you were given the centroids: you could easily label all the instances in the dataset by assigning each of them to the cluster whose centroid is closest. Conversely, if you were given all the instance labels, you could easily locate all the centroids by computing the mean of the instances for each cluster. But you are given neither the labels nor the centroids, so how can you proceed? Well, just start by placing the centroids randomly (e.g., by picking k instances at random and using their locations as centroids). Then label the instances, update the centroids, label the instances, update the centroids, and so on until the centroids stop moving. The algorithm is guaranteed to converge in a finite number of steps (usually quite small).
 
 
-## What I will do ##
+## Data ##
 
 I will implment the K means clustering algorithm to do the wholesale dataset.
+This data is from kaggle about the wholesale customer.
 
 ## Reference ##
 
