@@ -13,6 +13,9 @@ A Support Vector Machine (SVM) is a very powerful and versatile Machine Learning
 ## what we will do ##
 
 I will use the SVM algorithm to predict the rainfall in Austin.
+## Data ##
+
+This data is from kaggle. This data contains histroical weather of Austin. It contrains parameters like,Average Temperature, Highest Tempertaure, something like this.
 
 ## Libraries ##
 not limited to
