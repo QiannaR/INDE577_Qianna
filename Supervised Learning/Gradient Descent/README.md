@@ -17,8 +17,11 @@ Concretely, you start by filling θ with random values (this is called random in
 
 <img width="276" alt="Screen Shot 2022-05-06 at 12 05 52 AM" src="https://user-images.githubusercontent.com/98185045/167070431-3565b7f9-3f89-4e96-9b4e-b768030a3a38.png">
 
-##Data ##
-I build a Gradient Descent model from scratch, using the gradient descent algorithm, by changing the learning rate and the number of iterations, to continuously reduce the value of the cost function, to find the most optimal linear equation.
+## Task ##
+I build a Gradient Descent model from scratch, using the gradient descent algorithm.By changing the learning rate and the number of iterations, to continuously reduce the value of the cost function, to find the most optimal linear equation.
+
+## Data ## 
+This data is randomly generated.
 
 ## Libraries ##
    1. Matplotlib
